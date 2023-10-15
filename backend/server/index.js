@@ -7,7 +7,7 @@ const bodyParser = require('body-parser');
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-require("../routes/restaurant.routes")(app);
+require("../apiComponents/api")(app);
 
 var corsOptions = {
     origin: "http://localhost:3000"
