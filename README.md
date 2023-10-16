@@ -3,6 +3,8 @@
 
 Create schema **gds** in MySQL Workbench <br />
 
+Update db credentials in db.config.js <br />
+
 **Backend** <br />
 
 cd backend <br />
