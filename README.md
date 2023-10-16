@@ -1,11 +1,19 @@
 # gds_swe_challenge
-Mini Project
+**Mini Project**
 
-cd backend
-npm install
-npm start
+Create schema **gds** in MySQL Workbench <br />
 
-cd frontend
-npm install
-npm start
+**Backend** <br />
+
+cd backend <br />
+npm install <br />
+npm start <br />
+
+**Frontend** <br />
+
+cd frontend <br />
+npm install <br />
+npm start <br />
+
+
 
